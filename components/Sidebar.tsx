@@ -123,7 +123,6 @@ const Sidebar = () => {
   ];
 
   const [activeItem, setActiveItem] = useState("")
-    const className =  "w-5 h-5"; 
   return (
     <div className="fixed left-0 top-0 h-screen w-16 bg-[#2d3e50] flex flex-col items-center py-4">
       {/* Logo */}
